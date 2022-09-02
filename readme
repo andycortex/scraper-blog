@@ -1,3 +1,6 @@
 scrapy genspider quotes quotes.toscrape.com/random 
 
 scrapy runspider quotes.py
+
+
+scrapy genspider blogs scrapeit.home.blog/
